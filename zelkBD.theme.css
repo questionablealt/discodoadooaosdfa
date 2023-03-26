@@ -49,7 +49,7 @@
 }
 /*-------------LIGHT MODE------------*/
 .theme-light {
-  --accent-color: #C5E5F9;
+  --accent-color: #bde6fb;
   --background-1: #ffffff;
   --background-2: #f5f7fa;
   --background-accent: var(--background-2);
